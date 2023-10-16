@@ -1,6 +1,6 @@
 resume_url: "Resume.pdf"
 author_name: "Min-hee Kwon"
-url: johndoe.com
+url: https://minhee713.github.io/
 
 plugins:
   - jekyll-seo-tag
