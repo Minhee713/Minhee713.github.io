@@ -1,5 +1,5 @@
 ---
 layout: categories
 permalink: /categories/
-title: Categories
+title: Min-hee Kwon | Categories
 ---
