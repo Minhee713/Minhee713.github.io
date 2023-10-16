@@ -1,6 +1,6 @@
 ---
 layout: description
-title: About
+title: Min-hee Kwon | About
 permalink: /about/
 ---
 이것은 테스트입니다.  
