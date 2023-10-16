@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Embedded Software  C  Java
+home_text: Embedded Software Developer
 title: Min-hee Kwon
 ---
